@@ -6,4 +6,5 @@ Created on Fri Apr 23 11:55:27 2021
 """
 
 n = int(input())
-print(n)
+x = 10
+print(n+x)
